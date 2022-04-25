@@ -1,0 +1,4 @@
+Visual Studio Code Version 1.66
+Node.js version 18
+Mongo Db Atlas
+Aws Management Console
